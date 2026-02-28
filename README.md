@@ -173,8 +173,7 @@ Tree-based models solved the three-subpopulation problem that OLS could not hand
 ## 👤 Author
 
 **APARNA M P**  
-[GitHub](https://github.com/aparna-2001) | [LinkedIn](https://linkedin.com/in/aparnamp)
-[email](aparnamp966@gmail.com)
+[GitHub](https://github.com/aparna-2001) | [LinkedIn](https://linkedin.com/in/aparnamp) | [email](aparnamp966@gmail.com)
 
 ---
 
