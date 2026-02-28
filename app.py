@@ -1,8 +1,4 @@
-# Install Streamlit if not already installed
-try:
-    import streamlit
-except ImportError:
-    !pip install streamlit
+
 
 import streamlit as st
 import pandas as pd
