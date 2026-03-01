@@ -1,5 +1,10 @@
 # 🏥 Medical Insurance Charges — End-to-End Regression Project
 
+## 🚀 Live Demo
+👉 [Try the Live App Here](https://medical-insurance-charge-predictor.streamlit.app)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medical-insurance-charge-predictor.streamlit.app)
+
 > Predicting medical insurance charges using machine learning.  
 > Dataset: [Medical Insurance Charges 2021–2025 Enhanced](https://www.kaggle.com/) (Kaggle)
 
@@ -168,10 +173,7 @@ Gradient Boost   →  R² = 0.8684  (+11.7% over OLS)
 
 Tree-based models solved the three-subpopulation problem that OLS could not handle — confirmed by the transformation from clustered to random residual plots.
 
-## 🚀 Live Demo
-👉 [Try the Live App Here](https://medical-insurance-charge-predictor.streamlit.app)
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medical-insurance-charge-predictor.streamlit.app)
 
 ---
 
