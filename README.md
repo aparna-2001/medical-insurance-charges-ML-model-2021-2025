@@ -168,6 +168,11 @@ Gradient Boost   →  R² = 0.8684  (+11.7% over OLS)
 
 Tree-based models solved the three-subpopulation problem that OLS could not handle — confirmed by the transformation from clustered to random residual plots.
 
+## 🚀 Live Demo
+👉 [Try the Live App Here](https://medical-insurance-charge-predictor.streamlit.app)
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medical-insurance-charge-predictor.streamlit.app)
+
 ---
 
 ## 👤 Author
